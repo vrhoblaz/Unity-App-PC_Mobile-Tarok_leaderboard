@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "656628416413",
+    "firebase_url": "https://malo-za-salo-malo-zares.firebaseio.com",
+    "project_id": "malo-za-salo-malo-zares",
+    "storage_bucket": "malo-za-salo-malo-zares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656628416413:android:843c5bdc7c4952d4",
+        "android_client_info": {
+          "package_name": "com.KrHo.LunchSchedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656628416413-qu7nu74930ul6su23tr677abta5lk2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYo33_TzLd_gvpNaGXgqrRB1arcRgQ0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656628416413:android:9270605a7bde1232",
+        "android_client_info": {
+          "package_name": "com.KrHo.tarokLeaderBoard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656628416413-qu7nu74930ul6su23tr677abta5lk2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYo33_TzLd_gvpNaGXgqrRB1arcRgQ0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
